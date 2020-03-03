@@ -10,7 +10,7 @@
 }
 
 button {
-  width: 100px;
+  width: auto;
   height: 45px;
   font-size: 20px;
   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
